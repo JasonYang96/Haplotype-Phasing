@@ -1,4 +1,5 @@
 # uses python 2, seems to run into undefined behavior with python 3
+# wiki located at https://github.com/JasonYang96/Haplotype-Phasing
 import numpy as np
 import timeit
 
